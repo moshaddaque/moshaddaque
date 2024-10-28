@@ -1,17 +1,18 @@
-![I am Java Programmer.](https://media.licdn.com/dms/image/D5616AQHgftXiZA8Ggg/profile-displaybackgroundimage-shrink_350_1400/0/1676240488680?e=1681948800&v=beta&t=TGQSWFKaWqRvrBcUIUFh4g4XI9mhkCaMzDlKrIVSL6o)
+![I am Java & Dart Programmer & Flutter Developer](https://media.licdn.com/dms/image/D5616AQHgftXiZA8Ggg/profile-displaybackgroundimage-shrink_350_1400/0/1676240488680?e=1681948800&v=beta&t=TGQSWFKaWqRvrBcUIUFh4g4XI9mhkCaMzDlKrIVSL6o)
 #### Hi 👋,
 ## I am SM Moshaddaque Hoshain
 
-#### I am a Java Programmer.
+#### I am a Mobile App Developer.
 
-I love coding. I learned C Programming as a first programming language then I learned JAVA Language. Now I am try to learn Data Structures and Algorithms. Also I Know Android Development using JAVA Language And Basic Web Designh Using HTML, CSS, Bootstrap, Wordpress.
+I love coding. I learned C Programming as a first programming language then I learned JAVA Language. Now I am try to learn Data Structures and Algorithms. Also I Know Android Development using JAVA Language And Basic Web Designh Using HTML, CSS, Bootstrap, Wordpress. Now I Am Working On Dart Programming Language For Building Mobile Apps Using Flutter.
 
-I am study at Dhata International University as a student of Department of CSE.
+I study at Dhata International University as a student of Department of CSE.
 
-Skills: C / JAVA / HTML / CSS / ANDROID
+Skills: C / JAVA / HTML / CSS / ANDROID / IOS / DART / FLUTTER 
 
 - 🔭 I’m currently working on Data Structures And Algorithms. 
-- 🌱 I’m currently learning JAVA OOP 
+- 🌱 I’m currently learning JAVA OOP
+- After that, I finished Dart Language to work with flutter for making Mobile Apps.
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about MySelf Or My Progress Or Anything whatever you want. 
 - 📫 How to reach me: By GitHub, Gmail, LinkedIn, Facebook Or Twitter 
