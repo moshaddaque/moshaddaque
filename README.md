@@ -1,38 +1,59 @@
-#### Hi 👋,
-## I am SM Moshaddaque Hoshain
+# 👋 Hi, I'm Moshaddaque — Flutter App Developer | Software Engineer
 
-#### I am a Mobile App Developer.
+I'm a passionate **Flutter mobile app developer** and a graduate of **Computer Science & Engineering** from **Dhaka International University**. Currently working as a **Junior Mobile App Developer at ICT Bangladesh**, I build responsive, scalable, and user-centric mobile applications.
 
-I love coding. I learned C Programming as a first programming language then I learned JAVA Language. Now I am try to learn Data Structures and Algorithms. Also I Know Android Development using JAVA Language And Basic Web Designh Using HTML, CSS, Bootstrap, Wordpress. Now I Am Working On Dart Programming Language For Building Mobile Apps Using Flutter.
+---
 
-I study at Dhata International University as a student of Department of CSE.
+## 🚀 About Me
 
-Skills: C / JAVA / HTML / CSS / ANDROID / IOS / DART / FLUTTER 
+- 🔭 Currently working on **Flutter AI-powered productivity apps** and **IoT smart device control apps**
+- 🌱 Learning daily through building **100 Days Flutter Challenge**
+- 🎯 Goal: Become a **Full-stack Flutter Developer** with backend, native, and AI/ML integrations
+- 🧠 Exploring: **Riverpod**, **Flutter BLoC**, **Firebase**, **REST APIs**, **Machine Learning on Edge**
+- 🛠️ Experienced in **Provider**, **GetX**, **Hive**, **SQLite**, **Firebase Firestore**, **AdMob**, **Figma-to-Flutter**, and more
+- 🎓 CSE Graduate from **Dhaka International University**
 
-- 🔭 I’m currently working on Data Structures And Algorithms. 
-- 🌱 I’m currently learning JAVA OOP
-- After that, I finished Dart Language to work with flutter for making Mobile Apps.
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about MySelf Or My Progress Or Anything whatever you want. 
-- 📫 How to reach me: By GitHub, Gmail, LinkedIn, Facebook Or Twitter 
-- ⚡ Fun fact: Programming Meems 
+---
 
+## 🧩 Tech Stack & Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moshaddaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moshaddaque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/moshaddaque.sm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@moshaddaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21200029)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCOlrdzVs98oCwL2NlszqtpQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://moshaddaque.blogspot.com/)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moshaddaque)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠 Projects I’m Proud Of
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshaddaque)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshaddaque&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+| Project Name                    | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 📱 Smart Switch IoT Controller | Flutter app to control ESP32 IoT switches via WiFi/Bluetooth               |
+| 🧠 AI Romantic Chatbot         | Personalized AI conversation with DeepSeek API                             |
+| 📚 MCQ Quiz App               | BCS, HSC MCQs with timer, level-based questions and local progress tracking |
+| 📥 YouTube Downloader App     | Video download with thumbnail preview, quality selection and local storage |
+| ⏰ Alarm & Reminder App       | Fully-featured alarm manager using local notification & alarm packages     |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moshaddaque&show_icons=true&count_private=true)  
+---
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=moshaddaque)   -->
+## 📅 My Learning Journey
 
-![GitHub metrics](https://metrics.lecoq.io/moshaddaque)  
+🌟 **100 Days of Flutter Challenge**  
+📽 I’m documenting my daily Flutter practice and projects with updates and videos.  
+🔗 *Stay tuned for daily GitHub commits and YouTube shorts!*
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=moshaddaque)  
+---
 
-![Profile views](https://gpvc.arturio.dev/moshaddaque)  
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/moshaddaque)  
+- 💻 [GitHub](https://github.com/moshaddaque)  
+- 📧 Email: moshaddaque.dev@gmail.com  
+- 🌐 Portfolio: (coming soon...)
+
+---
+
+> 💡 *“I believe that every pixel and logic must serve the user. Let’s build smarter mobile experiences with Flutter.”*
+
