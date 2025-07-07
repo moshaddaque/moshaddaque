@@ -50,8 +50,8 @@ I'm a passionate **Flutter mobile app developer** and a graduate of **Computer S
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/moshaddaque)  
 - 💻 [GitHub](https://github.com/moshaddaque)  
-- 📧 Email: moshaddaque.dev@gmail.com  
-- 🌐 Portfolio: (coming soon...)
+- 📧 Email: info.moshaddaque@gmail.com  
+- 🌐 Portfolio: https://moshaddaque.netlify.app/
 
 ---
 
